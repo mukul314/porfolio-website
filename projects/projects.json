@@ -1,5 +1,14 @@
 [
   {
+    "name": "MyTube",
+    "desc": "Developed a youtube like clone, in which the user has the facility to search videos, visit the channel and switch categories",
+    "image": "myTube",
+    "links": {
+      "view": "https://my-tube-phi.vercel.app/",
+      "code": "https://github.com/mukul314/MyTube"
+    }
+  },
+  {
     "name": "Chat-Hub",
     "desc": "Developed a chat application with nodejs and scoket.io",
     "image": "chathub",
