@@ -2,32 +2,19 @@
   {
     "name": "Chat-Hub",
     "desc": "Developed a chat application with nodejs and scoket.io",
-    "image": "notystackandroid",
-    "category": "android",
+    "image": "chathub",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://mukul314.github.io/ChatHub-App/",
+      "code": "https://github.com/mukul314/ChatHub-App"
     }
   },
   {
-    "name": "Chat-Hub",
-    "desc": "Developed a chat application with nodejs and scoket.io",
-    "image": "notystackandroid",
-    "category": "",
+    "name": "Wordle game",
+    "desc": "Developed a wordle game with javascript",
+    "image": "wordle",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
-  {
-    "name": "Chat-Hub",
-    "desc": "Developed a chat application with nodejs and scoket.io",
-    "image": "notystackandroid",
-    "category": "",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://mukul314.github.io/Word-guessing-game/",
+      "code": "https://github.com/mukul314/Word-guessing-game"
     }
   }
-
 ]
