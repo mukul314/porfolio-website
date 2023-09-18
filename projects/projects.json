@@ -1,5 +1,14 @@
 [
   {
+    "name": "Talk-A-Tive",
+    "desc": "Developed a Full-stack chat application with nodejs and socket.io with react as frontend",
+    "image": "chathub",
+    "links": {
+      "view": "https://talk-app.onrender.com/",
+      "code": "https://github.com/mukul314/mern-app"
+    }
+  },
+  {
     "name": "MyTube",
     "desc": "Developed a youtube like clone, in which the user has the facility to search videos, visit the channel and switch categories",
     "image": "myTube",
@@ -9,21 +18,12 @@
     }
   },
   {
-    "name": "Chat-Hub",
-    "desc": "Developed a chat application with nodejs and scoket.io",
-    "image": "chathub",
-    "links": {
-      "view": "https://mukul314.github.io/ChatHub-App/",
-      "code": "https://github.com/mukul314/ChatHub-App"
-    }
-  },
-  {
-    "name": "Wordle game",
-    "desc": "Developed a wordle game with javascript",
+    "name": "Personal portfolio",
+    "desc": "Created my personal portfolio using vanilla JavaScript",
     "image": "wordle",
     "links": {
-      "view": "https://mukul314.github.io/Word-guessing-game/",
-      "code": "https://github.com/mukul314/Word-guessing-game"
+      "view": "https://mukulojha-portfolio.netlify.app/",
+      "code": "https://github.com/mukul314/porfolio-website"
     }
   }
 ]
